@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622975740441",
+    "firebase_url": "https://react-practice-project-97c19.firebaseio.com",
+    "project_id": "react-practice-project-97c19",
+    "storage_bucket": "react-practice-project-97c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622975740441:android:90c977110dcfcfac",
+        "android_client_info": {
+          "package_name": "com.firebaseintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622975740441-hsmfm8usjcq0871qilpgainqc38cqhf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYpULi6rm6pB9IdNx0SwwEZpKG-wtonE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
